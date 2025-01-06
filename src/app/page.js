@@ -1,5 +1,5 @@
 import { Tooltip } from "@mui/material";
-import Navbar from "../../components/navbar";
+import Navbar from "./navbar";
 import PlayArrowRoundedIcon from '@mui/icons-material/PlayArrowRounded';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';

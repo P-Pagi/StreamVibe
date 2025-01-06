@@ -1,4 +1,4 @@
-import Navbar from "../../../components/navbar";
+import Navbar from "../navbar";
 import PlayArrowRoundedIcon from '@mui/icons-material/PlayArrowRounded';
 
 export default function Home() {
